@@ -78,23 +78,23 @@ cv2.waitKey(0)
 
 ### Display the input Image
 
-![1](https://github.com/aldrinlijo04/EROSION-AND-DILATION/assets/118544279/ca756c79-cb5a-4000-938f-1e549817cbed)
 
+![Screenshot 2023-11-06 204106](https://github.com/lubindher/EROSION-AND-DILATION/assets/119559904/034ae193-0ed4-4328-8fde-f1a2efb3f0cf)
 
 
 <br>
 
 ### Display the Eroded Image
 
-![2](https://github.com/aldrinlijo04/EROSION-AND-DILATION/assets/118544279/132692b7-7913-484e-95b6-d188f0b9d9a5)
 
+![Screenshot 2023-11-06 204145](https://github.com/lubindher/EROSION-AND-DILATION/assets/119559904/e7ac3c90-c2d1-46fe-8bd4-45872ca8f4c3)
 
 
 <br>
 
 ### Display the Dilated Image
 
-![3](https://github.com/aldrinlijo04/EROSION-AND-DILATION/assets/118544279/cef1b604-6025-4b8c-9298-eeceebf68d0f)
+![Screenshot 2023-11-06 204106](https://github.com/lubindher/EROSION-AND-DILATION/assets/119559904/fa91b01c-0e58-4c33-98b8-34fd76abc4cd)
 
 
 
